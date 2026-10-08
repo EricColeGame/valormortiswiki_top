@@ -1,1 +1,485 @@
-{}
+{
+  "site": {
+    "name": "Valor Mortis Wiki",
+    "shortName": "Valor Mortis",
+    "tagline": "Guides, Kampf, Waffen & Lore",
+    "description": "Erkunde das komplette Valor Mortis Wiki mit Einsteiger-Guides, Kampfmechaniken, Waffen, Fähigkeiten, Gegnern, Story-Lore, Release-Details und Fortschrittstipps für dieses Dark-Fantasy-Soulslike.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler."
+  },
+  "nav": {
+    "home": "Start",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Guide",
+    "combat": "Kampf",
+    "weapons": "Waffen",
+    "characters": "Charaktere",
+    "lore": "Lore",
+    "platforms": "Plattformen",
+    "release": "Release"
+  },
+  "home": {
+    "meta": {
+      "title": "Valor Mortis Wiki - Guides, Builds & Charaktere",
+      "description": "Erkunde das Valor Mortis Wiki mit detaillierten Guides, Charakterinfos, Builds, Fortschrittstipps und wichtigen Ressourcen, um dieses Dark-Fantasy-Abenteuerspiel zu meistern."
+    },
+    "hero": {
+      "eyebrow": "Dark-Fantasy-Action-Abenteuerspiel",
+      "title": "Valor Mortis Wiki",
+      "description": "Das komplette Valor Mortis Wiki mit Spiel-Guides, Charakteren, Mechaniken, Items, Fortschrittstipps und wichtigen Informationen für Spieler, die seine Dark-Fantasy-Welt erkunden.",
+      "stats": [
+        "Besuche insgesamt",
+        "Verfügbare Charaktere",
+        "Aktive Codes",
+        "Tägliche Updates"
+      ],
+      "primaryCta": "Einsteiger-Guide",
+      "secondaryCta": "Waffen-Guide",
+      "tertiaryCta": "Auf Steam spielen",
+      "videoLabel": "Offizielle Medien"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle ansehen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Valor Mortis Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Schließe den Tutorialbereich ab, lege dich auf eine Waffe fest und lerne Heil- und Parier-Eingaben, bevor du deinen ersten echten Kampf bestreitest."
+        },
+        {
+          "number": "2",
+          "title": "Kampf-Grundlagen",
+          "description": "Meistere den Rhythmus aus Lesen, Reagieren und Bestrafen mit Parier-Timing, Ausweichrollen, Ausdauerkontrolle und Distanz."
+        },
+        {
+          "number": "3",
+          "title": "Waffen & Rüstung",
+          "description": "Vergleiche Säbel, Schusswaffen sowie leichte, mittlere und schwere Rüstungssets, um ein Loadout zu bauen, das zu deinem Spielstil passt."
+        },
+        {
+          "number": "4",
+          "title": "Erster Boss-Guide",
+          "description": "Lies Angriffstelegraphien, überstehe Phasenübergänge und verwandle jedes Bestrafungsfenster in stetigen Boss-Schaden."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade im Trend",
+      "quickLinks": [
+        "Kampf-Grundlagen",
+        "Waffen & Rüstung",
+        "Boss-Guide",
+        "Release-Datum"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteiger-Guide",
+          "description": "Deine ersten Stunden in Valor Mortis: Steuerung, Attributprioritäten, Ressourcenmanagement und die frühen Gewohnheiten, die die Schwierigkeitskurve abflachen.",
+          "href": "/guide/valor-mortis-beginner-guide"
+        },
+        {
+          "badge": "Kampf",
+          "title": "Kampf & Parieren",
+          "description": "Lies Gegner-Telegraphien, timen deine Paraden, manage Ausdauer und verwandle jedes Erholungsfenster in Schaden, den du behältst.",
+          "href": "/combat/valor-mortis-combat"
+        },
+        {
+          "badge": "Waffen",
+          "title": "Waffen & Rüstung",
+          "description": "Vergleiche Säbel, Schusswaffen und Rüstungsgewichtsklassen und verbessere dann das Loadout, das zu deiner Spielweise passt.",
+          "href": "/weapons/valor-mortis-weapons"
+        },
+        {
+          "badge": "Gegner",
+          "title": "Gegner & Bosse",
+          "description": "Seuchenbefallene Fraktionen, Elite-Archetypen, Boss-Phasen und die Taktiken, die harte Begegnungen in gelöste Rätsel verwandeln.",
+          "href": "/lore/valor-mortis-enemies"
+        },
+        {
+          "badge": "Story",
+          "title": "Story & Charaktere",
+          "description": "Die alternativhistorische Kulisse, Napoleon, Lothaire und Shrike sowie die Themen, die die Valor Mortis Erzählung antreiben.",
+          "href": "/lore/valor-mortis-story"
+        },
+        {
+          "badge": "Release",
+          "title": "Release-Datum & Plattformen",
+          "description": "Alles Bekannte über das Startfenster, PC- und Konsolenplattformen, Store-Einträge und wie du Updates verfolgst.",
+          "href": "/release/valor-mortis-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Valor Mortis?",
+      "paragraphs": [
+        "Valor Mortis ist ein First-Person-Dark-Fantasy-Action-RPG von One More Level, dem Studio hinter Ghostrunner. Angesiedelt in einem von der Pest verwüsteten alternativen 19. Jahrhundert, schlüpfst du in die Stiefel eines wiederbelebten Soldaten, der mit übernatürlichen Kräften aus dem Tod zurückkehrt, die die Lebenden niemals hätten tragen sollen.",
+        "Der Kampf ist bedacht und bestrafend: Du liest Gegner-Telegraphien, wählst zwischen Parieren, Ausweichen und Blocken und verwandelst Erholungsframes in Schaden. Im Laufe der Kampagne verbesserst du Säbel, Schusswaffen und Rüstung, schaltest neue Fähigkeiten frei und kämpfst dich durch seuchenbefallene Horden und hoch aufragende Bosse."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "One More Level"
+        },
+        {
+          "label": "Genre",
+          "value": "First-Person-Soulslike"
+        },
+        {
+          "label": "Plattform",
+          "value": "PC, PS5 & Xbox Series X|S"
+        },
+        {
+          "label": "Schauplatz",
+          "value": "Pestverwüstetes 19. Jahrhundert"
+        },
+        {
+          "label": "Protagonist",
+          "value": "Wiederbelebter Soldat"
+        },
+        {
+          "label": "Kampfstil",
+          "value": "Parieren & Ausweichen"
+        }
+      ],
+      "cta": "Alle Guides entdecken"
+    },
+    "explore": {
+      "title": "Erkunde das Valor Mortis Wiki",
+      "description": "Tauche in jedes Valor Mortis System ein mit Einsteiger-Walkthroughs, Kampfanalysen, Waffen- und Rüstungs-Guides, Gegner-Lore und Release-Details.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Valor Mortis Wiki Einsteiger-Guide",
+          "description": "Wichtige Startinfos für neue Spieler: Kampf-Grundlagen, Erkundungstipps, Fortschrittssysteme und frühe Strategien für die First-Person-Soulslike-Schleife.",
+          "href": "/guide/valor-mortis-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Schließe den Anfangs-Tutorialbereich ab, um Ausweich-, Block- und Heil-Eingaben in einem risikoarmen Raum zu lernen"
+            },
+            {
+              "label": "2",
+              "detail": "Lege dich früh auf eine Waffe fest, damit Muskelgedächtnis und Upgrade-Materialien fokussiert bleiben"
+            },
+            {
+              "label": "3",
+              "detail": "Lerne die Heil-Eingabe vor deinem ersten echten Kampf, um Panikheilungs-Tode zu vermeiden"
+            },
+            {
+              "label": "4",
+              "detail": "Gib mitgeführte Währung aus oder sichere sie vor riskanten Vorstößen, damit ein Tod weniger kostet"
+            },
+            {
+              "label": "5",
+              "detail": "Erkunde zuerst Seitenwege für Abkürzungen, Verbrauchsgüter und kostenlose Upgrades"
+            },
+            {
+              "label": "6",
+              "detail": "Übe das Ausweichen in telegraphierte Angriffe, bevor du den ersten Boss herausforderst"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Valor Mortis Wiki Gameplay-Guide",
+          "description": "Die zentralen Gameplay-Systeme von Valor Mortis, darunter Kampfmechaniken, Waffen, übernatürliche Fähigkeiten, Gegner und Erkundungsfunktionen.",
+          "href": "/guide/valor-mortis-how-to-play",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Parieren",
+              "detail": "Verwandle telegraphierte einzelne Hiebe in freie Riposten"
+            },
+            {
+              "label": "Ausweichen",
+              "detail": "Rolle durch Combos und weite Bögen, während du die Ausdauer im Blick behältst"
+            },
+            {
+              "label": "Ausdauer",
+              "detail": "Behandle die Leiste als deinen Zug zum Angreifen oder Verteidigen"
+            },
+            {
+              "label": "Distanz",
+              "detail": "Setze den Kampf zurück, wenn deine Ressourcen leer sind"
+            },
+            {
+              "label": "Kamera",
+              "detail": "Lies Telegraphien aus einer engen, gewichtigen First-Person-Ansicht"
+            },
+            {
+              "label": "Soulslike",
+              "detail": "Bedenkter Kampf, bei dem jeder Hieb Verpflichtung bedeutet"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Valor Mortis Wiki Waffen-Tier-Liste",
+          "description": "Waffentypen, Kampfstile, Upgrade-Pfade und empfohlene Ansätze für Säbel, Schusswaffen und Rüstungs-Loadouts.",
+          "href": "/weapons/valor-mortis-weapons",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Säbel - schneller, parierfokussierter Nahkampf, der präzises Timing belohnt"
+            },
+            {
+              "label": "A",
+              "detail": "Standardgewehr - der zuverlässige Allrounder für mittlere Distanz"
+            },
+            {
+              "label": "B",
+              "detail": "Schrotflinte - verheerend auf kurze Distanz, bestrafend auf Reichweite"
+            },
+            {
+              "label": "C",
+              "detail": "Schwere Explosive - langsames Aufladen, am besten zur Mengenkontrolle"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Valor Mortis Wiki Fähigkeiten-Guide",
+          "description": "Übernatürliche Kräfte, Upgrade-Entscheidungen und Build-Setups mit Hinweisen zu Fähigkeitsfortschritt und Kampfsynergien.",
+          "href": "/combat/valor-mortis-combat",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Burst",
+              "detail": "Spare deine stärksten Kräfte für Boss-Phasenübergänge"
+            },
+            {
+              "label": "Utility",
+              "detail": "Eröffne Kämpfe mit Mengenkontroll- und Debuff-Fähigkeiten"
+            },
+            {
+              "label": "Abklingzeit",
+              "detail": "Verfolge Fähigkeits-Timer, damit Burst-Fenster zusammenpassen"
+            },
+            {
+              "label": "Synergie",
+              "detail": "Kombiniere kraftlastige Builds mit leichtem, schnellem Nahkampf"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Valor Mortis Wiki Gegner-Guide",
+          "description": "Eine Gegner-Referenz zu seuchenbefallenen Monstern, Bossen, Kampfmustern und Strategien zum Besiegen schwieriger Begegnungen.",
+          "href": "/lore/valor-mortis-enemies",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Seuche",
+              "detail": "Schlurfende Seuchenträger schwärmen aus und greifen in Gruppen"
+            },
+            {
+              "label": "Soldaten",
+              "detail": "Hohle Soldaten halten die Formation hinter Schilden"
+            },
+            {
+              "label": "Bestien",
+              "detail": "Wilde Seuchenbestien springen in unablässige Ausfälle"
+            },
+            {
+              "label": "Zeloten",
+              "detail": "Fernkämpfende Okkultisten kanalisieren Siegel aus der Distanz"
+            },
+            {
+              "label": "Jäger",
+              "detail": "Elite-Wächter bestrafen Heilung und Rückzug"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Valor Mortis Wiki Release-Guide",
+          "description": "Startinformationen zu Release-Status, Plattformen, Editionen, Preis und Verfügbarkeitsupdates.",
+          "href": "/release/valor-mortis-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PC",
+              "detail": "Für Steam und andere PC-Stores angekündigt",
+              "badge": "Angekündigt"
+            },
+            {
+              "label": "PS5",
+              "detail": "PlayStation-5-Version für Current-Gen bestätigt",
+              "badge": "Angekündigt"
+            },
+            {
+              "label": "Xbox",
+              "detail": "Xbox Series X|S Build setzt die Konsolen-Performance-Untergrenze",
+              "badge": "Angekündigt"
+            },
+            {
+              "label": "Datum",
+              "detail": "Release-Datum wurde nicht angekündigt - setze die Store-Seite auf die Wunschliste, um es zu verfolgen",
+              "badge": "Demnächst"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Valor Mortis Wiki Story-Guide",
+          "description": "Die Kulisse, Charaktere, alternativhistorischer Hintergrund und die großen erzählerischen Themen hinter Valor Mortis.",
+          "href": "/lore/valor-mortis-story",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Schauplatz",
+              "detail": "Alternatives Europa des 19. Jahrhunderts, von der Pest zerrüttet"
+            },
+            {
+              "label": "Napoleon",
+              "detail": "Der wiederbelebte Kaiser treibt den Zusammenbruch der Welt voran"
+            },
+            {
+              "label": "Lothaire",
+              "detail": "Ein Spiegel-Antagonist, der einen dunkleren Weg ging"
+            },
+            {
+              "label": "Shrike",
+              "detail": "Ein geduldiger Jäger, dessen Begegnung jede Gewohnheit prüft"
+            },
+            {
+              "label": "Thema",
+              "detail": "Mut, Schuld und Ehre in einer Welt, die dem Tod gehört"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Valor Mortis Wiki Updates-Guide",
+          "description": "Offizielle Ankündigungen, Trailer, Gameplay-Enthüllungen und zukünftige Inhaltsupdates der Entwickler.",
+          "href": "/release",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patches",
+              "detail": "Balance- und Kampf-Tuning-Änderungen, sobald sie erscheinen"
+            },
+            {
+              "label": "Trailer",
+              "detail": "Reveal- und Gameplay-Material, sobald es erscheint"
+            },
+            {
+              "label": "Demo",
+              "detail": "Demo- und Beta-News vor dem Release"
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Post-Launch-Inhaltspläne des Studios"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Valor Mortis, seinem Kampf, den Plattformen und dem Release.",
+      "items": [
+        {
+          "question": "Was ist Valor Mortis?",
+          "answer": "Valor Mortis ist ein First-Person-Dark-Fantasy-Soulslike von One More Level, angesiedelt in einem von der Pest verwüsteten alternativen 19. Jahrhundert. Du spielst einen wiederbelebten Soldaten, der mit übernatürlichen Kräften zurückkehrt und sich durch eine Welt kämpft, in der der Tod alles beansprucht hat. Das Valor Mortis Wiki sammelt Einsteiger-Guides, Kampfanalysen, Waffen- und Gegner-Referenzen und Release-News an einem Ort."
+        },
+        {
+          "question": "Wann erscheint Valor Mortis?",
+          "answer": "Valor Mortis hat noch kein offizielles Release-Datum erhalten. Die Steam-Store-Seite ist für Wunschlisten online, und das Spiel wurde für PC, PlayStation 5 und Xbox Series X|S angekündigt."
+        },
+        {
+          "question": "Ist Valor Mortis ein Soulslike?",
+          "answer": "Ja. Valor Mortis baut auf Soulslike-Grundlagen auf: bedachter Nahkampf, Parier-Timing, Ausdauermanagement, bestrafende Gegner-Telegraphien und checkpoint-basierte Erkundung, alles aus der First-Person-Perspektive."
+        },
+        {
+          "question": "Auf welchen Plattformen ist Valor Mortis verfügbar?",
+          "answer": "Valor Mortis ist für PC via Steam, PlayStation 5 und Xbox Series X|S angekündigt. Handheld- und Last-Gen-Konsolenversionen wurden nicht angekündigt."
+        },
+        {
+          "question": "Wie starte ich in Valor Mortis?",
+          "answer": "Beginne mit dem Valor Mortis Einsteiger-Guide: Schließe den Tutorialbereich ab, lege dich auf eine Waffe fest, lerne die Heil-Eingabe früh und übe das Parieren telegraphierter Angriffe vor deinem ersten Boss."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Valor Mortis zu meistern?",
+      "description": "Von deinen ersten Schritten im pestverwüsteten Frankreich bis zu Endgame-Boss-Begegnungen - unser Community-Wiki deckt dich mit kostenlosen, aktuellen Guides ab.",
+      "primary": "Lies den Einsteiger-Guide",
+      "secondary": "Auf Steam spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Valor Mortis Wiki Guides",
+    "overviewDescription": "Schritt-für-Schritt-Walkthroughs, Einsteigertipps und Boss-Strategien für Valor Mortis, von deinem ersten Parieren bis zur letzten Begegnung."
+  },
+  "combat": {
+    "overviewTitle": "Valor Mortis Wiki Kampf",
+    "overviewDescription": "Meistere den First-Person-Soulslike-Kampf in Valor Mortis: Parier-Timing, Ausweichfenster, Schwierigkeitsgrade und wie du jedes Duell überlebst."
+  },
+  "weapons": {
+    "overviewTitle": "Valor Mortis Wiki Waffen",
+    "overviewDescription": "Säbel, Schusswaffen und Rüstungssets erklärt, mit Waffenwerten, Upgrade-Pfaden und den besten Loadouts für jeden Spielstil."
+  },
+  "characters": {
+    "overviewTitle": "Valor Mortis Wiki Charaktere",
+    "overviewDescription": "Lerne die Besetzung von Valor Mortis kennen, darunter Napoleon, Lothaire und die Shrike, plus ihre Synchronsprecher und Story-Rollen."
+  },
+  "lore": {
+    "overviewTitle": "Valor Mortis Wiki Lore",
+    "overviewDescription": "Die vollständige Valor Mortis Story, ihr pestgeplagtes alternatives 19. Jahrhundert, feindliche Fraktionen und jedes Ende erklärt."
+  },
+  "platforms": {
+    "overviewTitle": "Valor Mortis Wiki Plattformen",
+    "overviewDescription": "Valor Mortis auf Steam, PS5, Xbox und Game Pass, mit Systemanforderungen, Unreal-Engine-Details und Verfügbarkeit."
+  },
+  "release": {
+    "overviewTitle": "Valor Mortis Wiki Release",
+    "overviewDescription": "Valor Mortis Release-Datum, Demo, Preis und Store-Details für PC und Konsolen."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Steam spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Start",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Valor Mortis Wiki",
+    "about": "Das Valor Mortis Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Kampf, Waffen, übernatürlichen Fähigkeiten, Gegnern, Story-Lore und wichtigem Spielwissen für neue und erfahrene Spieler gleichermaßen.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Valor Mortis Wiki. Nicht mit One More Level oder Lyrical Games verbunden.",
+    "description": "Dark-Fantasy-First-Person-Soulslike. Führe übernatürliche Kräfte gegen grauenvolle Monster.",
+    "playGame": "Valor Mortis auf Steam spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Valor Mortis Build-Planer",
+    "beginnerGuide": "Einsteiger-Guide",
+    "raceGuides": "Waffen-Guide",
+    "bossGuides": "Gegner-Guides",
+    "buildGuide": "Charakter-Guides",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}
