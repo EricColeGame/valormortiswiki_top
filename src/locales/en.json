@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Finish the tutorial area, commit to one weapon, and learn the heal and parry inputs before your first real fight."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Combat Basics",
+          "description": "Master the read-respond-punish rhythm with parry timing, dodge rolls, stamina control, and spacing."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Weapons & Armor",
+          "description": "Compare melee sabers, firearms, and light, medium, and heavy armor sets to build a loadout that fits your playstyle."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Valor Mortis."
+          "title": "First Boss Guide",
+          "description": "Read attack tells, survive phase transitions, and turn every punish window into steady boss damage."
         }
       ]
     },
@@ -66,237 +66,313 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Combat Basics",
+        "Weapons & Armor",
+        "Boss Guide",
+        "Release Date"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Your first hours in Valor Mortis: controls, stat priorities, resource management, and the early habits that flatten the difficulty curve.",
+          "href": "/guide/valor-mortis-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Combat",
+          "title": "Combat & Parry",
+          "description": "Read enemy tells, time your parries, manage stamina, and turn every recovery frame into damage you keep.",
+          "href": "/combat/valor-mortis-combat"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Weapons",
+          "title": "Weapons & Armor",
+          "description": "Compare sabers, firearms, and armor weight classes, then upgrade the loadout that matches how you actually play.",
+          "href": "/weapons/valor-mortis-weapons"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Enemies",
+          "title": "Enemies & Bosses",
+          "description": "Plague-touched factions, elite archetypes, boss phases, and the tactics that turn hard encounters into solved puzzles.",
+          "href": "/lore/valor-mortis-enemies"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Story",
+          "title": "Story & Characters",
+          "description": "The alternate-history setting, Napoleon, Lothaire, and Shrike, and the themes that drive the Valor Mortis narrative.",
+          "href": "/lore/valor-mortis-story"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Release",
+          "title": "Release Date & Platforms",
+          "description": "Everything known about the launch window, PC and console platforms, store listings, and how to track updates.",
+          "href": "/release/valor-mortis-release-date"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Valor Mortis?",
       "paragraphs": [
-        "Valor Mortis is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Valor Mortis is a first-person dark fantasy action RPG from One More Level, the studio behind Ghostrunner. Set in a plague-ravaged alternate 19th century, it puts you in the boots of a resurrected soldier who returns from death with supernatural powers the living were never meant to hold.",
+        "Combat is deliberate and punishing: you read enemy tells, choose between parry, dodge, and guard, then convert recovery frames into damage. Across the campaign you upgrade sabers, firearms, and armor, unlock new abilities, and fight through plague-touched hordes and towering bosses."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
-        },
-        {
-          "label": "Platform",
-          "value": "Roblox"
+          "value": "One More Level"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "First-Person Soulslike"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Platform",
+          "value": "PC, PS5 & Xbox Series X|S"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Setting",
+          "value": "Plague-Ravaged 19th Century"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Protagonist",
+          "value": "Resurrected Soldier"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Combat Style",
+          "value": "Parry & Dodge"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Valor Mortis Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Dive into every Valor Mortis system with beginner walkthroughs, combat breakdowns, weapon and armor guides, enemy lore, and release details.",
       "modules": [
         {
           "order": 1,
-          "name": "Valor Mortis Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/valor-mortis-codes",
-          "displayType": "code-box",
+          "name": "Valor Mortis Wiki Beginner Guide",
+          "description": "Essential starting information for new players, covering combat basics, exploration tips, progression systems, and early-game strategies for the first-person Soulslike loop.",
+          "href": "/guide/valor-mortis-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Finish the opening tutorial area to learn dodge, block, and heal inputs in a low-risk space"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Commit to one weapon early so muscle memory and upgrade materials stay focused"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Learn the heal input before your first real fight to avoid panic-healing deaths"
+            },
+            {
+              "label": "4",
+              "detail": "Spend or bank carried currency before a risky push so a death costs less"
+            },
+            {
+              "label": "5",
+              "detail": "Explore side paths first for shortcuts, consumables, and free upgrades"
+            },
+            {
+              "label": "6",
+              "detail": "Practice dodging into telegraphed attacks before you challenge the first boss"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/valor-mortis-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Valor Mortis Wiki Gameplay Guide",
+          "description": "The core gameplay systems of Valor Mortis, including combat mechanics, weapons, supernatural abilities, enemies, and exploration features.",
+          "href": "/guide/valor-mortis-how-to-play",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Parry",
+              "detail": "Turn telegraphed single swings into free ripostes"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Dodge",
+              "detail": "Roll through combos and wide arcs while watching stamina"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Stamina",
+              "detail": "Treat the bar as your turn to attack or defend"
+            },
+            {
+              "label": "Spacing",
+              "detail": "Reset the fight when your resources run empty"
+            },
+            {
+              "label": "Camera",
+              "detail": "Read tells from a tight, weighty first-person view"
+            },
+            {
+              "label": "Soulslike",
+              "detail": "Deliberate combat where every swing carries commitment"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/valor-mortis-tier-list",
+          "name": "Valor Mortis Wiki Weapons Tier List",
+          "description": "Weapon types, combat styles, upgrade paths, and recommended approaches for melee sabers, firearms, and armor loadouts.",
+          "href": "/weapons/valor-mortis-weapons",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Saber - fast, parry-focused melee that rewards precise timing"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Standard rifle - the reliable mid-range all-rounder"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Shotgun - devastating point-blank, punishing at range"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Heavy explosive - slow wind-up, best for crowd control"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/valor-mortis-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Valor Mortis Wiki Abilities Guide",
+          "description": "Supernatural powers, upgrade choices, and build setups, with guidance on ability progression and combat synergies.",
+          "href": "/combat/valor-mortis-combat",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Burst",
+              "detail": "Save your strongest powers for boss phase transitions"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Utility",
+              "detail": "Open fights with crowd control and debuff abilities"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Cooldown",
+              "detail": "Track ability timers so burst windows line up"
+            },
+            {
+              "label": "Synergy",
+              "detail": "Pair power-heavy builds with light, fast melee"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/valor-mortis-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Valor Mortis Wiki Enemies Guide",
+          "description": "An enemy reference covering plague-touched monsters, bosses, combat patterns, and strategies for defeating difficult encounters.",
+          "href": "/lore/valor-mortis-enemies",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Plague",
+              "detail": "Shambling plague-bearers swarm and grab in groups"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Soldiers",
+              "detail": "Hollowed soldiers hold formation behind shields"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Beasts",
+              "detail": "Feral plague-beasts leap into relentless lunges"
+            },
+            {
+              "label": "Zealots",
+              "detail": "Ranged occultists channel sigils from a distance"
+            },
+            {
+              "label": "Hunters",
+              "detail": "Elite wardens punish healing and retreat"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/valor-mortis-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Valor Mortis Wiki Release Guide",
+          "description": "Launch information including release status, platforms, editions, pricing, and availability updates.",
+          "href": "/release/valor-mortis-release-date",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "PC",
+              "detail": "Announced for Steam and other PC storefronts",
+              "badge": "Announced"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "PS5",
+              "detail": "PlayStation 5 version confirmed for current-gen",
+              "badge": "Announced"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Xbox",
+              "detail": "Xbox Series X|S build sets the console performance floor",
+              "badge": "Announced"
+            },
+            {
+              "label": "Date",
+              "detail": "Release date has not been announced - wishlist the store page to track it",
+              "badge": "Upcoming"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Valor Mortis Wiki Story Guide",
+          "description": "The setting, characters, alternate-history background, and major narrative themes behind Valor Mortis.",
+          "href": "/lore/valor-mortis-story",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Setting",
+              "detail": "Alternate 19th-century Europe shattered by plague"
+            },
+            {
+              "label": "Napoleon",
+              "detail": "The resurrected emperor drives the world's collapse"
+            },
+            {
+              "label": "Lothaire",
+              "detail": "A mirror antagonist who walked a darker path"
+            },
+            {
+              "label": "Shrike",
+              "detail": "A patient hunter whose encounter tests every habit"
+            },
+            {
+              "label": "Theme",
+              "detail": "Courage, debt, and honor in a world owned by death"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Valor Mortis Wiki Updates Guide",
+          "description": "Official announcements, trailers, gameplay reveals, and future content updates from the developers.",
+          "href": "/release",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patches",
+              "detail": "Balance and combat tuning changes as they arrive"
+            },
+            {
+              "label": "Trailers",
+              "detail": "Reveal and gameplay footage as it drops"
+            },
+            {
+              "label": "Demo",
+              "detail": "Demo and beta news ahead of release"
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Post-launch content plans from the studio"
             }
           ]
         }
@@ -304,27 +380,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Valor Mortis.",
+      "description": "Quick answers to the most common questions about Valor Mortis, its combat, platforms, and release.",
       "items": [
         {
           "question": "What is Valor Mortis?",
-          "answer": "Valor Mortis is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Valor Mortis is a first-person dark fantasy soulslike from One More Level, set in a plague-ravaged alternate 19th century. You play a resurrected soldier who returns with supernatural powers and fights through a world where death has claimed everything. The Valor Mortis Wiki collects beginner guides, combat breakdowns, weapon and enemy references, and release news in one place."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "When does Valor Mortis release?",
+          "answer": "Valor Mortis has not received an official release date yet. The Steam store page is live for wishlisting, and the game has been announced for PC, PlayStation 5, and Xbox Series X|S."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Is Valor Mortis a soulslike?",
+          "answer": "Yes. Valor Mortis builds on soulslike fundamentals: deliberate melee combat, parry timing, stamina management, punishing enemy tells, and checkpoint-based exploration, all from a first-person perspective."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What platforms is Valor Mortis on?",
+          "answer": "Valor Mortis is announced for PC via Steam, PlayStation 5, and Xbox Series X|S. Handheld and last-generation console versions have not been announced."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do I start in Valor Mortis?",
+          "answer": "Begin with the Valor Mortis beginner guide: finish the tutorial area, commit to one weapon, learn the heal input early, and practice parrying telegraphed attacks before your first boss."
         }
       ]
     },
