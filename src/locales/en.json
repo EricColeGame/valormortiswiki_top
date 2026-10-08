@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "combat": "Combat",
+    "weapons": "Weapons",
+    "characters": "Characters",
+    "lore": "Lore",
+    "platforms": "Platforms",
+    "release": "Release"
   },
   "home": {
     "meta": {
@@ -411,7 +418,34 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Valor Mortis Wiki Guides",
+    "overviewDescription": "Step-by-step walkthroughs, beginner tips and boss strategies for Valor Mortis, from your first parry to the final encounter."
+  },
+  "combat": {
+    "overviewTitle": "Valor Mortis Wiki Combat",
+    "overviewDescription": "Master first-person Soulslike combat in Valor Mortis: parry timing, dodge windows, difficulty settings and how to survive every duel."
+  },
+  "weapons": {
+    "overviewTitle": "Valor Mortis Wiki Weapons",
+    "overviewDescription": "Sabers, firearms and armor sets explained, with weapon stats, upgrade paths and the best loadouts for every playstyle."
+  },
+  "characters": {
+    "overviewTitle": "Valor Mortis Wiki Characters",
+    "overviewDescription": "Meet the cast of Valor Mortis, including Napoleon, Lothaire and the Shrike, plus their voice actors and story roles."
+  },
+  "lore": {
+    "overviewTitle": "Valor Mortis Wiki Lore",
+    "overviewDescription": "The full Valor Mortis story, its plague-ridden alternate 19th century, enemy factions and every ending explained."
+  },
+  "platforms": {
+    "overviewTitle": "Valor Mortis Wiki Platforms",
+    "overviewDescription": "Valor Mortis on Steam, PS5, Xbox and Game Pass, with system requirements, Unreal Engine details and availability."
+  },
+  "release": {
+    "overviewTitle": "Valor Mortis Wiki Release",
+    "overviewDescription": "Valor Mortis release date, demo, price and storefront details across PC and consoles."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -444,7 +478,7 @@
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Weapons Guide",
     "bossGuides": "Enemy Guides",
-    "buildGuide": "Build Guide",
+    "buildGuide": "Character Guides",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

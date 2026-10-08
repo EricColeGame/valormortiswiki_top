@@ -1,0 +1,118 @@
+export const metadata = {
+  title: "Valor Mortis Unreal Engine : plateformes, performances et ce à quoi s'attendre",
+  description: "Un regard centré sur les plateformes concernant la technologie Unreal Engine de Valor Mortis : comment elle façonne les performances sur PC, console et consoles portables, avec des conseils de réglage et une FAQ.",
+  category: "platforms",
+  date: "2026-10-08",
+}
+
+Si vous avez suivi les discussions autour des spéculations sur Valor Mortis Unreal Engine, vous savez déjà pourquoi la technologie derrière ce jeu d'action sombre compte. Le moteur sur lequel un studio construit son jeu détermine son apparence, ses performances, et s'il reste réactif quand un combat se joue sur une seule esquive. Ce guide détaille ce que la conversation autour de Valor Mortis Unreal Engine signifie pour les joueurs sur PC, console et consoles portables, et comment tirer l'expérience la plus fluide possible de votre configuration.
+
+## Ce qu'est Valor Mortis et pourquoi la conversation sur le moteur compte
+
+Valor Mortis est un jeu d'action dark fantasy construit autour de combats de mêlée rapprochés et d'un monde désolé et déchiré par la guerre. Les images et les discussions qui circulent en ligne dépeignent des champs de bataille noyés dans le brouillard, une architecture en ruines et des ennemis qui punissent les erreurs de timing. L'atmosphère est l'argument de vente principal, et l'atmosphère coûte cher à rendre.
+
+C'est exactement pourquoi la question de Valor Mortis Unreal Engine ne cesse de refaire surface sur les forums, dans les commentaires et sur les serveurs Discord. Le choix du moteur n'est pas un simple argument marketing. Il détermine comment l'éclairage se comporte lorsque vous passez d'un tunnel éclairé par une torche à l'air libre, combien d'ennemis peuvent envahir une cour avant que le taux de rafraîchissement ne s'effondre, et avec quelle grâce le jeu s'adapte d'un ordinateur haut de gamme à une console portable.
+
+| Système | Ce que le moteur contrôle | Pourquoi les joueurs le remarquent vraiment |
+|---|---|---|
+| Rendu | Détail géométrique, éclairage, effets | Fidélité visuelle globale et clarté de l'image |
+| Mise à l'échelle des performances | Préréglages, résolution, mise à l'échelle | Si le taux de rafraîchissement reste stable |
+| Physique et animation | Réactions aux coups, tissus, débris | La sensation de poids et de lisibilité du combat |
+| Streaming d'assets | Taille du monde, comportement de chargement | Temps de chargement, apparition d'objets, saccades en exploration |
+| Entrées et cadence des images | Timing de réponse | Fenêtres d'esquive, de parade et d'attaque |
+| Prise en charge des plateformes | Cibles de build et optimisations | Quels appareils peuvent bien faire tourner le jeu |
+
+Pour un jeu de combat où le timing est tout, les deux dernières lignes comptent plus que n'importe quelle capture d'écran. Un jeu magnifique qui saccade pendant un combat de boss est une pire expérience qu'un jeu d'apparence modeste qui conserve un taux de rafraîchissement stable.
+
+## Les fonctionnalités d'Unreal Engine de Valor Mortis qui façonnent l'expérience
+
+Unreal Engine 5 a introduit une série de systèmes de rendu devenus la boîte à outils par défaut des grands titres d'action. La discussion communautaire suppose généralement que Valor Mortis est construit sur cette génération du moteur, et si c'est le cas, voici les systèmes qui font le gros du travail.
+
+| Fonctionnalité | Ce qu'elle fait | Effet pratique pour les joueurs |
+|---|---|---|
+| Nanite | Pipeline de géométrie virtualisée | Environnements plus denses avec beaucoup moins d'apparition visible d'objets |
+| Lumen | Éclairage global dynamique | Lumière de torche, brouillard et lumière rebondie plus naturels |
+| Virtual Shadow Maps | Rendu d'ombres très détaillé | Silhouettes plus nettes et ombrage plus cohérent |
+| Physique Chaos | Destruction, tissus et collisions | Débris et réactions d'impact qui semblent physiques |
+| World Partition | Streaming de grands environnements | Zones plus vastes avec moins d'interruptions de chargement |
+| Temporal Super Resolution | Mise à l'échelle temporelle intégrée | Modes performance qui restent raisonnablement nets |
+| Niagara | Système de particules et d'effets | Braises, météo, sang et brume atmosphérique |
+| Outils de personnage et d'animation | Fidélité faciale et squelettique | Mouvements plus crédibles et télégraphies des ennemis |
+
+En plus de cela, la plupart des sorties modernes intègrent des upscalers tiers tels que NVIDIA DLSS, AMD FSR et Intel XeSS, ainsi qu'une génération d'images optionnelle sur le matériel compatible. La disponibilité varie selon le titre et la plateforme, donc considérez toute liste de fonctionnalités spécifique comme non confirmée jusqu'à ce qu'elle apparaisse dans une analyse technique officielle. Pour en savoir plus sur ce que font réellement ces systèmes de rendu, le [site officiel d'Unreal Engine](https://www.unrealengine.com/) est un bon point de départ.
+
+À retenir : si vous avez joué à un récent jeu d'action sous Unreal Engine 5, vous avez déjà une idée approximative des forces et des aspérités. Les forces sont l'éclairage et la densité environnementale. Les aspérités sont généralement les saccades de compilation des shaders, une utilisation intensive de la VRAM et des modes performance qui reposent fortement sur la mise à l'échelle.
+
+## Plateformes : où Valor Mortis devrait tourner
+
+La disponibilité sur les plateformes est la question la plus fréquente dans n'importe quel fil de discussion sur Valor Mortis Unreal Engine, et c'est aussi celle dont les réponses qui circulent sont les moins fiables. Confirmez toujours la liste actuelle sur la fiche officielle du store plutôt que de faire confiance à une capture d'écran d'une rumeur.
+
+| Plateforme | Points forts typiques | Compromis typiques |
+|---|---|---|
+| PC Windows (Steam / Epic) | Plafond visuel le plus élevé, modding, réglages fins | Nécessite une maintenance des pilotes ; la variété du matériel est énorme |
+| PlayStation 5 | Performances constantes, streaming SSD rapide | Moins d'options graphiques ; préréglages par mode |
+| Xbox Series X | Marge GPU importante, reprise rapide | Même limitation de préréglages que les autres consoles |
+| Xbox Series S | Coût d'entrée plus faible | Résolution et effets réduits, mémoire plus limitée |
+| PC portables (Steam Deck, ROG Ally, Legion Go) | Jeu portable, suspension/reprise | Mise à l'échelle agressive et cibles de 30–40 FPS |
+| Streaming cloud | Aucun matériel local nécessaire | Sensibilité à la latence dans un jeu de combat basé sur le timing |
+
+Cette dernière ligne mérite d'être soulignée. Le streaming cloud fonctionne bien pour les jeux lents au tour par tour, mais un jeu d'action de mêlée avec des fenêtres de parade serrées est l'un des genres les plus difficiles à jouer en réseau. Si vous hésitez entre une machine locale moins puissante et une session cloud, le local l'emporte presque toujours pour ce type de jeu.
+
+## Réglages des performances : comment obtenir un taux de rafraîchissement stable
+
+La stabilité du taux de rafraîchissement l'emporte sur le taux maximal dans presque tous les scénarios de combat. Un 40 FPS verrouillé est plus agréable qu'un 45–70 fluctuant, car vos entrées restent prévisibles. Voici un ordre de priorité pratique pour ajuster les réglages.
+
+| Réglage | Impact sur le taux de rafraîchissement | Coût visuel | Recommandation |
+|---|---|---|---|
+| Résolution / mode de mise à l'échelle | Très élevé | Faible à modéré | Commencez par Qualité, passez à Équilibré si nécessaire |
+| Éclairage global (Lumen) | Élevé | Élevé | Le premier grand levier si vous êtes limité par le GPU |
+| Qualité des ombres | Élevé | Modéré | Moyen est généralement le bon compromis |
+| Réflexions | Modéré à élevé | Modéré | Moyen ; l'espace écran suffit en mouvement |
+| Post-traitement (bloom, DOF, flou de mouvement) | Faible à modéré | Faible | Désactivez le flou de mouvement ; gardez le reste modéré |
+| Densité de feuillage et de géométrie | Modéré | Modéré à élevé | Réduisez uniquement si vous constatez des saccades dans les zones ouvertes |
+| Génération d'images | Augmente les FPS affichés | Ajoute une légère latence | À utiliser uniquement si votre taux de base est déjà solide |
+
+Quelques habitudes qui aident sur presque toutes les configurations :
+
+- **Installez le jeu sur un SSD.** Les moteurs gourmands en streaming se comportent nettement moins bien sur les disques mécaniques.
+- **Mettez à jour votre pilote GPU avant le jour du lancement.** Les pilotes du jour de sortie incluent souvent des correctifs pour les nouvelles sorties.
+- **Activez le VRR si votre écran le prend en charge.** Il lisse les petites baisses que les menus de réglages ne peuvent pas éliminer.
+- **Limitez votre taux de rafraîchissement.** Un plafond constant réduit la chaleur, le bruit du ventilateur et la variance du temps de frame.
+- **Surveillez l'utilisation de la VRAM.** Dépasser la mémoire de votre carte provoque des saccades qu'aucun réglage en jeu ne peut corriger.
+- **Fermez les overlays en arrière-plan.** Les outils d'enregistrement et les onglets de navigateur se disputent les mêmes ressources.
+
+Sur les consoles portables, attendez-vous à passer la plupart de votre temps dans les menus de mise à l'échelle et d'éclairage global. Les retours de la communauté désignent systématiquement ces deux réglages comme la différence entre un 30 FPS jouable et un diaporama.
+
+## Retours de la communauté et expérience des joueurs
+
+Comme la documentation technique officielle sur les détails d'Unreal Engine de Valor Mortis reste limitée, une grande partie de ce que savent les joueurs provient d'impressions de prise en main partagées sur les forums et les réseaux sociaux. Considérez ce qui suit comme une expérience de joueur plutôt que comme des spécifications confirmées.
+
+- **Les scènes riches en éclairage sont le test de résistance.** Les retours de la communauté sur des titres similaires sous Unreal Engine 5 suggèrent que les zones intérieures avec plusieurs sources de lumière sont celles où le taux de rafraîchissement chute le plus fortement.
+- **Les saccades de compilation des shaders sont une plainte récurrente.** Elles disparaissent généralement après la première heure à mesure que les shaders sont mis en cache, mais elles peuvent réapparaître après une mise à jour de pilote.
+- **Les modes performance varient en qualité.** Certains joueurs rapportent que passer à un niveau de résolution inférieur coûte plus de clarté visuelle que prévu dans les scènes très brumeuses.
+- **Les joueurs sur console portable privilégient les plafonds de frames.** Verrouiller à 30 ou 40 FPS est l'approche la plus couramment recommandée pour un jeu stable sur matériel portable.
+- **Les joueurs console veulent une option 60 FPS.** Les modes de taux de rafraîchissement sont systématiquement la fonctionnalité la plus demandée dans les fils de discussion communautaires pour ce genre.
+
+Le fil conducteur de tous ces retours est que la constance compte plus que les chiffres bruts. Les joueurs pardonnent un taux de rafraîchissement moyen plus bas. Ils ne pardonnent pas une saccade au milieu de l'animation d'attaque d'un boss.
+
+## FAQ
+
+**Valor Mortis est-il construit sur Unreal Engine ?**
+
+La discussion communautaire le suppose largement, et la signature visuelle des images — éclairage dynamique, géométrie environnementale dense et effets atmosphériques marqués — est cohérente avec le rendu moderne d'Unreal Engine. Toutefois, considérez cela comme une spéculation de joueurs jusqu'à ce que les développeurs publient une déclaration technique officielle.
+
+**Les performances d'Unreal Engine de Valor Mortis seront-elles bonnes sur Steam Deck et autres consoles portables ?**
+
+Cela dépend de l'évolutivité de la version finale. Les PC portables gèrent généralement les titres Unreal Engine 5 à 30–40 FPS avec une mise à l'échelle agressive et un éclairage global réduit. Attendez-vous à bricoler les réglages plutôt qu'à tout laisser par défaut.
+
+**Le jeu prend-il en charge DLSS, FSR et XeSS ?**
+
+La plupart des grandes sorties Unreal Engine incluent au moins un ou deux de ces upscalers, et la prise en charge de la génération d'images est de plus en plus courante sur les GPU récents. Confirmez la liste finale des fonctionnalités sur la page officielle du store une fois qu'elle sera publiée.
+
+**Vers quel matériel PC dois-je viser ?**
+
+Plutôt que de courir après une fiche technique précise, visez une machine qui gère confortablement d'autres jeux d'action récents sous Unreal Engine 5 à votre résolution cible. Si vous pouvez les faire tourner à un taux de rafraîchissement stable avec la mise à l'échelle activée, vous êtes bien parti pour les performances d'Unreal Engine de Valor Mortis également.
+
+## Réflexions finales
+
+La conversation sur Valor Mortis Unreal Engine est en réalité une conversation sur les attentes. La technologie moderne des moteurs offre un éclairage et un détail environnemental extraordinaires, et elle exige aussi davantage de votre matériel et du travail d'optimisation des développeurs. Sachez quels réglages comptent, choisissez la plateforme qui correspond à votre façon de jouer et privilégiez la constance du taux de rafraîchissement plutôt que la fidélité visuelle maximale. Cette approche vous servira bien, que vous soyez sur un ordinateur de bureau haut de gamme, une console de salon ou une console portable sur le canapé.
