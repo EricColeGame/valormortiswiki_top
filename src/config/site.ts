@@ -25,10 +25,14 @@ export const siteConfig: SiteConfig = {
   tagline: "Guides, Combat, Weapons & Lore",
   description: "Explore the complete Valor Mortis Wiki with beginner guides, combat mechanics, weapons, abilities, enemies, story lore, release details and progression tips for this dark fantasy Soulslike.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://valormortiswiki.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://valormortiswiki.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@valormortiswiki.top",
   gameUrl: "https://store.steampowered.com/app/2828710/Valor_Mortis/",
   heroVideoId: "BUVCBbdzyxU", // Valor Mortis - Official "The Crimson Plague" Gameplay Trailer
-  social: {},
+  social: {
+    discord: "https://discord.gg/valormortis",
+    youtube: "https://www.youtube.com/@OneMoreLevel",
+    twitter: "https://x.com/ValorMortis",
+  },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
 };
